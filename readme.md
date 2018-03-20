@@ -62,7 +62,7 @@ Y = data after current push
 
 **Change the following block only**
 ```
-Number of easy questions solved: X Y
+Number of easy questions solved: 0 5
 Number of medium questions solved: X Y
 Number of hard questions solved: X Y
 Number of total questions solved: X Y
@@ -88,13 +88,13 @@ To mark the checkbox, change [ ] to [x].
 
 #### Easy
 
-1. [ ] [https://goo.gl/Kkf8eD](https://goo.gl/Kkf8eD)
-2. [ ] [https://www.codechef.com/problems/SCC0103](https://www.codechef.com/problems/SCC0103)
+1. [x] [https://goo.gl/Kkf8eD](https://goo.gl/Kkf8eD)
+2. [x] [https://www.codechef.com/problems/SCC0103](https://www.codechef.com/problems/SCC0103)
 3. [ ] [http://www.spoj.com/problems/GSS1/](http://www.spoj.com/problems/GSS1/)
-4. [ ] [https://www.codechef.com/problems/BITMASK3](https://www.codechef.com/problems/BITMASK3)
+4. [x] [https://www.codechef.com/problems/BITMASK3](https://www.codechef.com/problems/BITMASK3)
 5. [ ] [https://goo.gl/PTpmny](https://goo.gl/PTpmny)
 6. [ ] [https://www.codechef.com/problems/BITMASK3](https://www.codechef.com/problems/BITMASK3)
-7. [ ] [https://www.hackerrank.com/challenges/two-arrays/problem](https://www.hackerrank.com/challenges/two-arrays/problem)
+7. [x] [https://www.hackerrank.com/challenges/two-arrays/problem](https://www.hackerrank.com/challenges/two-arrays/problem)
 8. [ ] [http://www.spoj.com/problems/FREQUENT/](http://www.spoj.com/problems/FREQUENT/)
 9. [ ] [http://www.spoj.com/problems/BUGLIFE/](http://www.spoj.com/problems/BUGLIFE/)
 10. [ ] [https://goo.gl/shR8UK](https://goo.gl/shR8UK)
@@ -111,7 +111,7 @@ To mark the checkbox, change [ ] to [x].
 21. [ ] [http://www.spoj.com/problems/JUSTAPAL/](http://www.spoj.com/problems/JUSTAPAL/)
 22. [ ] [https://goo.gl/m5DbXZ](https://goo.gl/m5DbXZ)
 23. [ ] [http://www.spoj.com/problems/ELEVTRBL/](http://www.spoj.com/problems/ELEVTRBL/)
-24. [ ] [https://www.codechef.com/problems/K1/](https://www.codechef.com/problems/K1/)
+24. [x] [https://www.codechef.com/problems/K1/](https://www.codechef.com/problems/K1/)
 25. [ ] [http://www.spoj.com/problems/PT07Y/](http://www.spoj.com/problems/PT07Y/)
 26. [ ] [https://goo.gl/JHSdm1](https://goo.gl/JHSdm1)
 27. [ ] [https://goo.gl/viMSCX](https://goo.gl/viMSCX)
