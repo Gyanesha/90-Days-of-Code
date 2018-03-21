@@ -62,7 +62,7 @@ Y = data after current push
 
 **Change the following block only**
 ```
-Number of easy questions solved: 0 5
+Number of easy questions solved: 0 6
 Number of medium questions solved: X Y
 Number of hard questions solved: X Y
 Number of total questions solved: X Y
@@ -90,7 +90,7 @@ To mark the checkbox, change [ ] to [x].
 
 1. [x] [https://goo.gl/Kkf8eD](https://goo.gl/Kkf8eD)
 2. [x] [https://www.codechef.com/problems/SCC0103](https://www.codechef.com/problems/SCC0103)
-3. [ ] [http://www.spoj.com/problems/GSS1/](http://www.spoj.com/problems/GSS1/)
+3. [x] [http://www.spoj.com/problems/GSS1/](http://www.spoj.com/problems/GSS1/)
 4. [x] [https://www.codechef.com/problems/BITMASK3](https://www.codechef.com/problems/BITMASK3)
 5. [ ] [https://goo.gl/PTpmny](https://goo.gl/PTpmny)
 6. [ ] [https://www.codechef.com/problems/BITMASK3](https://www.codechef.com/problems/BITMASK3)
