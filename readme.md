@@ -62,7 +62,7 @@ Y = data after current push
 
 **Change the following block only**
 ```
-Number of easy questions solved: 0 7
+Number of easy questions solved: 0 9
 Number of medium questions solved: X Y
 Number of hard questions solved: X Y
 Number of total questions solved: X Y
@@ -131,7 +131,7 @@ To mark the checkbox, change [ ] to [x].
 41. [ ] [http://codeforces.com/problemset/problem/579/A](http://codeforces.com/problemset/problem/579/A)
 42. [ ] [https://goo.gl/66cr2p](https://goo.gl/66cr2p)
 43. [ ] [https://goo.gl/fvbDS5](https://goo.gl/fvbDS5)
-44. [ ] [https://www.codechef.com/problems/REL102](https://www.codechef.com/problems/REL102)
+44. [x] [https://www.codechef.com/problems/REL102](https://www.codechef.com/problems/REL102)
 45. [ ] [http://www.spoj.com/problems/SUMITR/](http://www.spoj.com/problems/SUMITR/)
 46. [ ] [https://goo.gl/S69rSA](https://goo.gl/S69rSA)
 47. [ ] [https://goo.gl/xMWucx](https://goo.gl/xMWucx)
@@ -139,7 +139,7 @@ To mark the checkbox, change [ ] to [x].
 49. [ ] [https://goo.gl/uH7FYz](https://goo.gl/uH7FYz)
 50. [ ] [https://goo.gl/DDzNyE](https://goo.gl/DDzNyE)
 51. [ ] [https://goo.gl/tSnDU7](https://goo.gl/tSnDU7)
-52. [ ] [https://www.hackerrank.com/challenges/sum-vs-xor/problem](https://www.hackerrank.com/challenges/sum-vs-xor/problem)
+52. [x] [https://www.hackerrank.com/challenges/sum-vs-xor/problem](https://www.hackerrank.com/challenges/sum-vs-xor/problem)
 53. [ ] [http://www.spoj.com/problems/ADAJOBS/](http://www.spoj.com/problems/ADAJOBS/)
 
 
