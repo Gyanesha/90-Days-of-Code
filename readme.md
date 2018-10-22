@@ -2,7 +2,7 @@
 
 This challenge is currently meant for the students of ```NIT Durgapur```. Commit yourself to our 90 days of code challenge and contribute to the improvement of the coding culture of our college.
 
-``` Starts from 28th February 2018 ```
+``` Starts from Feb 28th, 2018 ```
 
 **```This challenge is going to help only if you solve the problems on your own, without cheating.  
 Your main goal should be learning, not scoring.```**
