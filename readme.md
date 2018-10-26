@@ -71,7 +71,7 @@ Change X and Y only according to your progress.**
 ```
 
 ```
-For example - if you solved 1 easy question and 2 hard questions today
+For example - if you solved 1 easy question and 2 hard questions today then try with some time limit while doing questions.
  	Number of easy questions solved: 0 1
 	Number of medium questions solved: 0 0
 	Number of hard questions solved: 0 2
