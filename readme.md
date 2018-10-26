@@ -1,6 +1,6 @@
 # 90 Days of Code Challenge
 
-This challenge is currently meant for the students of ```NIT Durgapur```. Commit yourself to our 90 days of code challenge and contribute to the improvement of the coding culture of our college.
+This challenge is currently meant for the students of ```NIT DURGAPUT```. Commit yourself to our 90 days of code challenge and contribute to the improvement of the coding culture of our college.
 
 ``` Starts from Feb 28th, 2018 ```
 
